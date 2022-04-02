@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Freelancer Data Scientist in Upwork
 - 🌱 I’m currently learning in Machine Learning algorithms, deep learning and computer vision. my favorite way of learning is online courses and read articles from medium.
-- 💬 Ask me about ...
+- 💬 Ask me about AI, politics, philosophy and logic:wink:
 - :email: [Email](nasryousif94@outlook.com)
 - :wink: [Linkedln](https://www.linkedin.com/in/nasryousif/)
 
