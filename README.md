@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text]("E:\Topics\faceRecognition.gif")
 
 
 - 🔭 I’m currently working as Freelancer Data Scientist
