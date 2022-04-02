@@ -1,4 +1,5 @@
 ### Hi there 👋
+- This gif was screenshot of the my face recognition system I have built, I was very happy and shared it with my closed friends, I have got positive feedbacks from my peers. I hope you enjoy my profile.
 ![alt text](https://user-images.githubusercontent.com/44967072/156584360-0e6e1ebb-9e87-49ec-8949-894c73613ee0.gif)
 
 
